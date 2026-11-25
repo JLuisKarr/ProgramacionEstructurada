@@ -1,8 +1,8 @@
 # Referencias Bibliográficas
 
-Structured Programming with C++ 
-2012 Kjell Backman
-ISBN: 978-87-403-0099-4
+Structured Programming with C++ <br>
+2012 Kjell Backman <br>
+ISBN: 978-87-403-0099-4 <br>
 
 
 How To Program C++. An Object-Natual Approach
