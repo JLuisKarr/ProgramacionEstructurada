@@ -5,7 +5,7 @@
 ISBN: 978-87-403-0099-4 <br>
 
 
-**How To Program C++**. An Object-Natual Approach <br>
+**How To Program C++**. An Object-Natural Approach <br>
 2024 Paul Deitel, Harvey Deitel, Eleventh Edition <br>
 ISBN: 0138092311, 9780138092313 <br>
 Capítulos 01 a 08 <br>
